@@ -124,7 +124,7 @@ void process_command(int code){
                 i++;
                 s[i] = process_line();
             }
-            int max = i;/
+            int max = i;
             while(cell -> data){
                 for(i = 0; i < max; i++){
                     process_command(s[i]);
