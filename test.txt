@@ -1,15 +1,5 @@
 inc
-   inc
-movr
 inc
 inc
-inc
-movl
-  print
-movr
-print
-movr
-begin
 inc
 print
-end
